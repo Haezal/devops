@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: podinfo-api
-        image: :40a1dcb
+        image: :6163deb
         ports:
         - containerPort: 8081
           name: http
